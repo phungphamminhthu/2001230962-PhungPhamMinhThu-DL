@@ -1,0 +1,6 @@
+age,workclass,education,marital-status,occupation,race,sex,hours-per-week,income
+39,State-gov,Bachelors,Never-married,Adm-clerical,White,Male,40,<=50K
+50,Self-emp-not-inc,Bachelors,Married-civ-spouse,Exec-managerial,White,Male,13,<=50K
+38,Private,HS-grad,Divorced,Handlers-cleaners,White,Male,40,<=50K
+53,Private,11th,Married-civ-spouse,Handlers-cleaners,Black,Male,40,<=50K
+28,Private,Bachelors,Married-civ-spouse,Prof-specialty,Black,Female,40,>50K
